@@ -1,0 +1,17 @@
+# IntelliJ / IDE
+.idea/
+*.iml
+*.iws
+
+# Compiled class files
+*.class
+out/
+build/
+bin/
+
+# Local Save Files
+scores.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
